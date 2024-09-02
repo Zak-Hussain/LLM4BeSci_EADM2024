@@ -7,16 +7,19 @@ By [Zak Hussain](https://zak-hussain.github.io/) and [Dirk Wulff](https://www.mp
 ### Schedule
 
 #### Workshop 1 (Monday)
+
 13:30 - 14:00: Talk: A gentle introduction to Hugging Face and Python<br>
 14:00 - 14:45: Exercise: Running pipelines<br>
 14:45 - 15:00: Walkthrough<br>
 
 #### Workshop 2 (Tuesday)
+
 09:00 - 09:30: Talk: Intro to embeddings<br>
 09:30 - 10:15: Exercise: Clarifying personality psychology<br>
 10:15 - 10:30: Walkthrough<br>
 
 #### Workshop 3 (Tuesday)
+
 11:00 - 11:30: Talk: Intro to text generation<br>
 11:30 - 12:15: Exercise: Labeling and synthetic participants<br>
 12:15 - 12:30: Walkthrough<br>
