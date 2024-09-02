@@ -9,7 +9,7 @@ By [Zak Hussain](https://zak-hussain.github.io/) and [Dirk Wulff](https://www.mp
 #### Workshop 1 (Monday)
 
 13:30 - 14:00: Talk: A gentle introduction to Hugging Face and Python<br>
-14:00 - 14:45: Exercise: Running pipelines<br>
+14:00 - 14:45: Exercise:  Pipelines and APIs<br>
 14:45 - 15:00: Walkthrough<br>
 
 #### Workshop 2 (Tuesday)
