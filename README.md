@@ -42,6 +42,10 @@ Bibtex citation:
 }
 ```
 
+[Hugging face documentation](https://huggingface.co/docs)<br>
+[Hugging face book](https://transformersbook.com/)<br>
+[But what is a GPT (3Blue1Brown)](https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5)<br>
+
 ### Installation Instructions
 0. If you do not have a Google account, you will need to create one (this can be deleted after the workshop).
 1. Navigate to Google Drive (https://drive.google.com/).
