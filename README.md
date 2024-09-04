@@ -1,12 +1,16 @@
 ## LLM4BeSci_EADM2024
 
-This course introduces the use of open-source large language models (LLMs) from the Hugging Face ecosystem for research in the behavioral.
+As part of the EADM Summer School 2024, this course introduces the use of open-source large language models (LLMs) from the Hugging Face ecosystem for research in the behavioral and social sciences.
 
 By [Zak Hussain](https://zak-hussain.github.io/) and [Dirk Wulff](https://www.mpib-berlin.mpg.de/person/93374/2549)
 
 ### Schedule
 
-#### Workshop 1 (Monday)
+#### Talk (Monday)
+
+11:00 - 12:30: Talk: Introduction to large language models<br>
+
+#### Workshop  1 (Monday)
 
 13:30 - 14:00: Talk: A gentle introduction to Hugging Face and Python<br>
 14:00 - 14:45: Exercise:  Pipelines and APIs<br>
